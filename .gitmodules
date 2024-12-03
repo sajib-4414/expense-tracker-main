@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sajib-4414/expense-tracker-backend.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/sajib-4414/gateway.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sajib-4414/expense-tracker-frontend.git
